@@ -1,24 +1,19 @@
-# Tableaux
+# Arrays
 
 
-Les tableaux ne font pas partie du coeur de la spec Markdown, mais ils font partie de GFM (GitHub Flavored Markdown) et Markdown Here les supporte.
+Arrays are not a part of Markdown's spec but they are a part
+of GFM (GitHub Flavored Markdown) and Markdown Here support them
 
-Voici un exemple de tableau avec le résultat dessous :
+Here an array's example with the result down there :
 
-    | Les tableaux  | Sont            | Cools |
+    | Arrays        | Are             | Cool  |
     | ------------- |:---------------:| -----:|
-    | col 3 est     | alignée à droite| $1600 |
-    | col 2 est     | centrée         |   $12 |
-    | les zèbres    | sont swag       |    $1 |
+    | col 3 is      | right aligned   | $1600 |
+    | col 2 is      | centered        |   $12 |
+    | les zèbres    | are swag        |    $1 |
 
 
-| Les tableaux  | Sont            | Cools |
-| ------------- |:---------------:| -----:|
-| col 3 est     | alignée à droite| $1600 |
-| col 2 est     | centrée         |   $12 |
-| les zèbres    | sont swag       |    $1 |
-
-Les deux points peuvent être utilisés pour aligner les colonnes
+Column ":" can be used to align columns
 
 Les traits (|) sont optionnels et vous n'avez pas besoin de faire que le Markdown raw s'alligne parfaitement. Vous pouvez aussi utiliser de l'inline Markdown.
 
